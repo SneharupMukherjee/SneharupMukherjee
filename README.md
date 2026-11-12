@@ -4,10 +4,14 @@ i do growth at early-stage tech: communities, launches, content. studied cs, so 
 
 stuff i've been tinkering with:
 
-- [social-media-automation-skill](https://github.com/SneharupMukherjee/social-media-automation-skill): finds what's working on short-form, drafts posts, i approve before anything goes out
-- [aeo-audit-skill](https://github.com/SneharupMukherjee/aeo-audit-skill): checks how chatgpt, gemini and perplexity talk about a brand
-- a few gtm repos ([intelligence](https://github.com/SneharupMukherjee/gtm-intelligence), [content](https://github.com/SneharupMukherjee/gtm-content), [outreach](https://github.com/SneharupMukherjee/gtm-outreach), [social](https://github.com/SneharupMukherjee/gtm-social), [web analytics](https://github.com/SneharupMukherjee/gtm-web-analytics))
-
-off the clock: on-device llms, a bengali speech-recognition project, and two family podcasts on youtube.
+- [gtm-intelligence](https://github.com/SneharupMukherjee/gtm-intelligence): company research, icp fit and buying signals from a url
+- [gtm-content](https://github.com/SneharupMukherjee/gtm-content): content that ranks on google and shows up in ai answers
+- [gtm-outreach](https://github.com/SneharupMukherjee/gtm-outreach): cold email and linkedin sequences from real signals
+- [gtm-social](https://github.com/SneharupMukherjee/gtm-social): linkedin posts and x threads in your own voice
+- [gtm-web-analytics](https://github.com/SneharupMukherjee/gtm-web-analytics): landing pages, tracking and simple reports
+- [social-media-automation-skill](https://github.com/SneharupMukherjee/social-media-automation-skill): short-form research and posting, with a human ok on each step
+- [aeo-audit-skill](https://github.com/SneharupMukherjee/aeo-audit-skill): how chatgpt, gemini and perplexity talk about a brand
+- [hubspot-admin-skills](https://github.com/SneharupMukherjee/hubspot-admin-skills): cleaning up and automating hubspot
+- [linkedin-post-templates](https://github.com/SneharupMukherjee/linkedin-post-templates): post skeletons to start from
 
 say hi: [linkedin](https://linkedin.com/in/sneharup-mukherjee) · mukherjee.sneharup@gmail.com
